@@ -10,7 +10,6 @@ public class RangeSumQueryImmutable {
 
     public int sumRange(int left, int right) {
         return prefix[right + 1] - prefix[left];
-
     }
     private int[] prefix;
 }
