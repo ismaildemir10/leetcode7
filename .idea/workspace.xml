@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af178d5a-b7e5-4184-9f76-cce010e1c1cc" name="Changes" comment="Range Sum Query - Mutable">
+    <list default="true" id="af178d5a-b7e5-4184-9f76-cce010e1c1cc" name="Changes" comment="Best Time to Buy and Sell Stock with Cooldown">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1784416393380</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Best Time to Buy and Sell Stock with Cooldown">
+      <created>1784558872620</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1784558872620</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +129,7 @@
     <MESSAGE value="Range Sum Query - Immutable" />
     <MESSAGE value="Range Sum Query 2D - Immutable" />
     <MESSAGE value="Range Sum Query - Mutable" />
-    <option name="LAST_COMMIT_MESSAGE" value="Range Sum Query - Mutable" />
+    <MESSAGE value="Best Time to Buy and Sell Stock with Cooldown" />
+    <option name="LAST_COMMIT_MESSAGE" value="Best Time to Buy and Sell Stock with Cooldown" />
   </component>
 </project>
