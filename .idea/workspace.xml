@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af178d5a-b7e5-4184-9f76-cce010e1c1cc" name="Changes" comment="Count of Smaller Numbers After Self" />
+    <list default="true" id="af178d5a-b7e5-4184-9f76-cce010e1c1cc" name="Changes" comment="Remove Duplicate Letters">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1784898085461</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Remove Duplicate Letters">
+      <created>1784929262246</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1784929262246</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +169,7 @@
     <MESSAGE value="Burst Balloons" />
     <MESSAGE value="Super Ugly Number" />
     <MESSAGE value="Count of Smaller Numbers After Self" />
-    <option name="LAST_COMMIT_MESSAGE" value="Count of Smaller Numbers After Self" />
+    <MESSAGE value="Remove Duplicate Letters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove Duplicate Letters" />
   </component>
 </project>
