@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af178d5a-b7e5-4184-9f76-cce010e1c1cc" name="Changes" comment="Maximum Product of Word Lengths">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="af178d5a-b7e5-4184-9f76-cce010e1c1cc" name="Changes" comment="Bulb Switcher" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1785014186177</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Bulb Switcher">
+      <created>1785157336327</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1785157336327</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +183,7 @@
     <MESSAGE value="Count of Smaller Numbers After Self" />
     <MESSAGE value="Remove Duplicate Letters" />
     <MESSAGE value="Maximum Product of Word Lengths" />
-    <option name="LAST_COMMIT_MESSAGE" value="Maximum Product of Word Lengths" />
+    <MESSAGE value="Bulb Switcher" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bulb Switcher" />
   </component>
 </project>
