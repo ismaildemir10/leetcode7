@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af178d5a-b7e5-4184-9f76-cce010e1c1cc" name="Changes" comment="Patching Array" />
+    <list default="true" id="af178d5a-b7e5-4184-9f76-cce010e1c1cc" name="Changes" comment="Verify Preorder Serialization of a Binary Tree" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -213,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1785869826948</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Verify Preorder Serialization of a Binary Tree">
+      <created>1785941349682</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1785941349682</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,6 +255,7 @@
     <MESSAGE value="Odd Even Linked List" />
     <MESSAGE value="Longest Increasing Path in a Matrix" />
     <MESSAGE value="Patching Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Patching Array" />
+    <MESSAGE value="Verify Preorder Serialization of a Binary Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Verify Preorder Serialization of a Binary Tree" />
   </component>
 </project>
