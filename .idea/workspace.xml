@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af178d5a-b7e5-4184-9f76-cce010e1c1cc" name="Changes" comment="Verify Preorder Serialization of a Binary Tree" />
+    <list default="true" id="af178d5a-b7e5-4184-9f76-cce010e1c1cc" name="Changes" comment="Reconstruct Itinerary" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -220,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1785941349682</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Reconstruct Itinerary">
+      <created>1786022775181</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1786022775181</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,6 +263,7 @@
     <MESSAGE value="Longest Increasing Path in a Matrix" />
     <MESSAGE value="Patching Array" />
     <MESSAGE value="Verify Preorder Serialization of a Binary Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Verify Preorder Serialization of a Binary Tree" />
+    <MESSAGE value="Reconstruct Itinerary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reconstruct Itinerary" />
   </component>
 </project>
