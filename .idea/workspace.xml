@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af178d5a-b7e5-4184-9f76-cce010e1c1cc" name="Changes" comment="Reconstruct Itinerary" />
+    <list default="true" id="af178d5a-b7e5-4184-9f76-cce010e1c1cc" name="Changes" comment="Increasing Triplet Subsequence" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -227,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1786022775181</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Increasing Triplet Subsequence">
+      <created>1786057572575</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1786057572575</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -264,6 +271,7 @@
     <MESSAGE value="Patching Array" />
     <MESSAGE value="Verify Preorder Serialization of a Binary Tree" />
     <MESSAGE value="Reconstruct Itinerary" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reconstruct Itinerary" />
+    <MESSAGE value="Increasing Triplet Subsequence" />
+    <option name="LAST_COMMIT_MESSAGE" value="Increasing Triplet Subsequence" />
   </component>
 </project>
