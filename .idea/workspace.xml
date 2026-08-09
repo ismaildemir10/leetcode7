@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af178d5a-b7e5-4184-9f76-cce010e1c1cc" name="Changes" comment="Increasing Triplet Subsequence" />
+    <list default="true" id="af178d5a-b7e5-4184-9f76-cce010e1c1cc" name="Changes" comment="Self Crossing">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -234,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1786057572575</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Self Crossing">
+      <created>1786137459768</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1786137459768</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -272,6 +281,7 @@
     <MESSAGE value="Verify Preorder Serialization of a Binary Tree" />
     <MESSAGE value="Reconstruct Itinerary" />
     <MESSAGE value="Increasing Triplet Subsequence" />
-    <option name="LAST_COMMIT_MESSAGE" value="Increasing Triplet Subsequence" />
+    <MESSAGE value="Self Crossing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Self Crossing" />
   </component>
 </project>
