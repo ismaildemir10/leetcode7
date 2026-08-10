@@ -1,12 +1,5 @@
 package leetcode;
-class T {
-    public int robRoot;
-    public int notRobRoot;
-    public T(int robRoot, int notRobRoot) {
-        this.robRoot = robRoot;
-        this.notRobRoot = notRobRoot;
-    }
-}
+
 public class HouseRobber3 {
     public class TreeNode {
         int val;
@@ -27,17 +20,20 @@ public class HouseRobber3 {
         }
 
         public int rob(TreeNode root) {
-            T t = robOrNotRob(root);
-            return Math.max(t.robRoot, t.notRobRoot);
-        }
+            if (root == null) {
+                return 0;
+            }
 
-        private T robOrNotRob(TreeNode root) {
-            if (root == null)
-                return new T(0, 0);
-            T l = robOrNotRob(root.left);
-            T r = robOrNotRob(root.right);
-            return new T(root.val + l.notRobRoot + r.notRobRoot,
-                    Math.max(l.robRoot, l.notRobRoot) + Math.max(r.robRoot, r.notRobRoot));
+            int res = root.val;
+            if (root.left != null) {
+                res += rob(root.left.left) + rob(root.left.right);
+            }
+            if (root.right != null) {
+                res += rob(root.right.left) + rob(root.right.right);
+            }
+
+            res = Math.max(res, rob(root.left) + rob(root.right));
+            return res;
         }
     }
 }
