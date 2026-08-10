@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af178d5a-b7e5-4184-9f76-cce010e1c1cc" name="Changes" comment="Self Crossing">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="af178d5a-b7e5-4184-9f76-cce010e1c1cc" name="Changes" comment="Palindrome Pairs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -243,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1786137459768</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Palindrome Pairs">
+      <created>1786292370260</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1786292370260</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,6 +287,7 @@
     <MESSAGE value="Reconstruct Itinerary" />
     <MESSAGE value="Increasing Triplet Subsequence" />
     <MESSAGE value="Self Crossing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Self Crossing" />
+    <MESSAGE value="Palindrome Pairs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Palindrome Pairs" />
   </component>
 </project>
