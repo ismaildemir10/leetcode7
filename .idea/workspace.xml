@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af178d5a-b7e5-4184-9f76-cce010e1c1cc" name="Changes" comment="Palindrome Pairs" />
+    <list default="true" id="af178d5a-b7e5-4184-9f76-cce010e1c1cc" name="Changes" comment="House Robber III" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -248,7 +248,21 @@
       <option name="project" value="LOCAL" />
       <updated>1786292370260</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="House Robber III">
+      <created>1786375847662</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1786375847662</updated>
+    </task>
+    <task id="LOCAL-00030" summary="House Robber III">
+      <created>1786375954837</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1786375954837</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,7 +277,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Remove Invalid Parentheses" />
     <MESSAGE value="Range Sum Query - Immutable" />
     <MESSAGE value="Range Sum Query 2D - Immutable" />
     <MESSAGE value="Range Sum Query - Mutable" />
@@ -288,6 +301,7 @@
     <MESSAGE value="Increasing Triplet Subsequence" />
     <MESSAGE value="Self Crossing" />
     <MESSAGE value="Palindrome Pairs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Palindrome Pairs" />
+    <MESSAGE value="House Robber III" />
+    <option name="LAST_COMMIT_MESSAGE" value="House Robber III" />
   </component>
 </project>
