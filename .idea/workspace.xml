@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af178d5a-b7e5-4184-9f76-cce010e1c1cc" name="Changes" comment="House Robber III" />
+    <list default="true" id="af178d5a-b7e5-4184-9f76-cce010e1c1cc" name="Changes" comment="Counting Bits" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -262,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1786375954837</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Counting Bits">
+      <created>1786457137604</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1786457137604</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,7 +284,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Range Sum Query - Immutable" />
     <MESSAGE value="Range Sum Query 2D - Immutable" />
     <MESSAGE value="Range Sum Query - Mutable" />
     <MESSAGE value="Best Time to Buy and Sell Stock with Cooldown" />
@@ -302,6 +308,7 @@
     <MESSAGE value="Self Crossing" />
     <MESSAGE value="Palindrome Pairs" />
     <MESSAGE value="House Robber III" />
-    <option name="LAST_COMMIT_MESSAGE" value="House Robber III" />
+    <MESSAGE value="Counting Bits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Counting Bits" />
   </component>
 </project>
